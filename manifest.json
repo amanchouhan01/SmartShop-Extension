@@ -1,0 +1,76 @@
+{
+  "manifest_version": 3,
+  "name": "SmartShop India",
+  "version": "2.0.0",
+  "description": "Hover over any product on 20+ Indian stores to compare prices and find the best deal instantly.",
+  "permissions": ["activeTab", "storage", "scripting"],
+  "host_permissions": [
+    "https://*.amazon.in/*",
+    "https://*.flipkart.com/*",
+    "https://*.myntra.com/*",
+    "https://*.meesho.com/*",
+    "https://*.nykaa.com/*",
+    "https://*.snapdeal.com/*",
+    "https://*.ajio.com/*",
+    "https://*.tatacliq.com/*",
+    "https://*.croma.com/*",
+    "https://*.reliancedigital.in/*",
+    "https://*.jiomart.com/*",
+    "https://*.bigbasket.com/*",
+    "https://*.blinkit.com/*",
+    "https://*.swiggy.com/*",
+    "https://*.zepto.app/*",
+    "https://*.paytmmall.com/*",
+    "https://*.shopclues.com/*",
+    "https://*.firstcry.com/*",
+    "https://*.indiamart.com/*",
+    "https://*.purplle.com/*",
+    "https://*.vijaysales.com/*",
+    "http://localhost/*",
+    "http://127.0.0.1/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.amazon.in/*",
+        "https://*.flipkart.com/*",
+        "https://*.myntra.com/*",
+        "https://*.meesho.com/*",
+        "https://*.nykaa.com/*",
+        "https://*.snapdeal.com/*",
+        "https://*.ajio.com/*",
+        "https://*.tatacliq.com/*",
+        "https://*.croma.com/*",
+        "https://*.reliancedigital.in/*",
+        "https://*.jiomart.com/*",
+        "https://*.bigbasket.com/*",
+        "https://*.blinkit.com/*",
+        "https://*.swiggy.com/*",
+        "https://*.zepto.app/*",
+        "https://*.paytmmall.com/*",
+        "https://*.shopclues.com/*",
+        "https://*.firstcry.com/*",
+        "https://*.indiamart.com/*",
+        "https://*.purplle.com/*",
+        "https://*.vijaysales.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["tooltip.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+}
