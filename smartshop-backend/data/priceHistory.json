@@ -1,0 +1,45 @@
+{
+  "amazon.in::sku::B0FQFBHQMJ": {
+    "prices": [
+      169990
+    ],
+    "updatedAt": "2026-04-06T10:52:57.239Z"
+  },
+  "amazon.in::sku::B0FQFW4MVJ": {
+    "prices": [
+      149900
+    ],
+    "updatedAt": "2026-04-06T10:53:08.030Z"
+  },
+  "amazon.in::sku::B0GL8G49LV": {
+    "prices": [
+      139999
+    ],
+    "updatedAt": "2026-04-06T10:53:20.167Z"
+  },
+  "amazon.in::sku::B0FQFBDQJ1": {
+    "prices": [
+      101190
+    ],
+    "updatedAt": "2026-04-06T10:53:25.617Z"
+  },
+  "amazon.in::sku::B0FQFTV1NP": {
+    "prices": [
+      119900
+    ],
+    "updatedAt": "2026-04-06T10:53:38.261Z"
+  },
+  "amazon.in::sku::B0FQFLWN5Z": {
+    "prices": [
+      94990
+    ],
+    "updatedAt": "2026-04-06T10:53:47.083Z"
+  },
+  "myntra.com::name::men_beige_slim_fit_solid_single_breasted_formal_bl": {
+    "prices": [
+      2369,
+      2369
+    ],
+    "updatedAt": "2026-04-06T11:10:20.076Z"
+  }
+}

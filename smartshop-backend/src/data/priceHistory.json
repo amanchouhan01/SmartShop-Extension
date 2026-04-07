@@ -1,0 +1,155 @@
+{
+  "amazon.in::sku::B0CWPF57J2": {
+    "prices": [
+      25999
+    ],
+    "updatedAt": "2026-04-06T06:26:16.414Z"
+  },
+  "amazon.in::sku::B0CWPD4QWK": {
+    "prices": [
+      28899
+    ],
+    "updatedAt": "2026-04-06T06:26:45.229Z"
+  },
+  "amazon.in::sku::B0FN7RN9TH": {
+    "prices": [
+      14499
+    ],
+    "updatedAt": "2026-04-06T06:26:46.429Z"
+  },
+  "amazon.in::sku::B0DX6P3RX9": {
+    "prices": [
+      11999
+    ],
+    "updatedAt": "2026-04-06T06:26:51.366Z"
+  },
+  "amazon.in::sku::B0FDB9H277": {
+    "prices": [
+      19999
+    ],
+    "updatedAt": "2026-04-06T06:27:14.462Z"
+  },
+  "amazon.in::sku::B0G4B8957C": {
+    "prices": [
+      18999
+    ],
+    "updatedAt": "2026-04-06T06:27:14.879Z"
+  },
+  "amazon.in::sku::B0GHWGQMJ1": {
+    "prices": [
+      14999
+    ],
+    "updatedAt": "2026-04-06T06:27:15.472Z"
+  },
+  "amazon.in::sku::B0FJFSHJ6Z": {
+    "prices": [
+      19999
+    ],
+    "updatedAt": "2026-04-06T06:27:37.402Z"
+  },
+  "amazon.in::sku::B0FHB5V36G": {
+    "prices": [
+      22998
+    ],
+    "updatedAt": "2026-04-06T06:27:48.005Z"
+  },
+  "amazon.in::sku::B0F2T6TV4M": {
+    "prices": [
+      18998
+    ],
+    "updatedAt": "2026-04-06T06:28:00.152Z"
+  },
+  "amazon.in::sku::B0CXMD9YX5": {
+    "prices": [
+      27999
+    ],
+    "updatedAt": "2026-04-06T06:28:04.320Z"
+  },
+  "amazon.in::sku::B0FQFV2XKS": {
+    "prices": [
+      149900
+    ],
+    "updatedAt": "2026-04-06T06:28:16.167Z"
+  },
+  "amazon.in::sku::B0FQF2ZJWT": {
+    "prices": [
+      154900
+    ],
+    "updatedAt": "2026-04-06T06:28:31.933Z"
+  },
+  "amazon.in::sku::B0GL8G49LV": {
+    "prices": [
+      139999,
+      139999
+    ],
+    "updatedAt": "2026-04-06T06:28:48.051Z"
+  },
+  "amazon.in::sku::B0G6KWRZQD": {
+    "prices": [
+      171899
+    ],
+    "updatedAt": "2026-04-06T06:28:50.980Z"
+  },
+  "amazon.in::sku::B0FTRN7L8Q": {
+    "prices": [
+      72999
+    ],
+    "updatedAt": "2026-04-06T06:29:01.705Z"
+  },
+  "amazon.in::sku::B0FQFTV1NP": {
+    "prices": [
+      119900
+    ],
+    "updatedAt": "2026-04-06T06:29:08.216Z"
+  },
+  "amazon.in::sku::B0GL8GCDDP": {
+    "prices": [
+      159999
+    ],
+    "updatedAt": "2026-04-06T06:32:26.593Z"
+  },
+  "amazon.in::sku::B0FQFBDQJ1": {
+    "prices": [
+      101190,
+      101190
+    ],
+    "updatedAt": "2026-04-06T06:32:36.370Z"
+  },
+  "amazon.in::sku::B0FVFNS8WZ": {
+    "prices": [
+      315
+    ],
+    "updatedAt": "2026-04-06T06:32:43.642Z"
+  },
+  "amazon.in::sku::B0FCML66W9": {
+    "prices": [
+      33999
+    ],
+    "updatedAt": "2026-04-06T06:32:47.888Z"
+  },
+  "amazon.in::sku::B0GL83ZTP8": {
+    "prices": [
+      44998
+    ],
+    "updatedAt": "2026-04-06T06:32:55.807Z"
+  },
+  "amazon.in::sku::B0DSKMV3ZC": {
+    "prices": [
+      118999
+    ],
+    "updatedAt": "2026-04-06T06:32:56.635Z"
+  },
+  "amazon.in::sku::B0FQFH6CV1": {
+    "prices": [
+      113990,
+      113990
+    ],
+    "updatedAt": "2026-04-06T06:33:09.790Z"
+  },
+  "myntra.com::name::faux_leather_structured_tote_bag": {
+    "prices": [
+      4999
+    ],
+    "updatedAt": "2026-04-06T06:35:40.672Z"
+  }
+}
